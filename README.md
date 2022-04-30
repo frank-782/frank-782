@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://github-readme-stats.vercel.app/api?username=frank-782&show_icons=true)  
+![](https://github-readme-stats.vercel.app/api?username=frank-782&show_icons=true&count_private=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frank-782&layout=compact&hide=html,css)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frank-782)
